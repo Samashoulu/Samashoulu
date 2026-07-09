@@ -52,9 +52,10 @@ https://github.com/Samashoulu/Babcock-Insider
 - Cloud engineering
 
 ---
-CONNECT
-LinkedIn: https://www.linkedin.com/in/samuel-asaolu-97a25b3a8/
+## CONNECT
 ---
-Email: samuelashaolu18@gmail.com
+-LinkedIn: https://www.linkedin.com/in/samuel-asaolu-97a25b3a8/
 ---
-Whatsapp: 09042277225
+-Email: samuelashaolu18@gmail.com
+---
+-Whatsapp: 09042277225
