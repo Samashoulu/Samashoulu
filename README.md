@@ -56,6 +56,3 @@ https://github.com/Samashoulu/Babcock-Insider
 ---
 -LinkedIn: https://www.linkedin.com/in/samuel-asaolu-97a25b3a8/
 ---
--Email: samuelashaolu18@gmail.com
----
--Whatsapp: 09042277225
